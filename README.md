@@ -61,11 +61,11 @@ Tenho interesse nas áreas de:
 ### :bar_chart: Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=igor1AC&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&theme=catppuccin_mocha&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1AC&theme=catppuccin_mocha&layout=compact&hide_border=false" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=SeuUsuarioGitHub&theme=catppuccin_mocha&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=igor1AC&theme=catppuccin_mocha&hide_border=false" />
 </div>
 
 ---
